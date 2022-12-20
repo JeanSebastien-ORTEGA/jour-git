@@ -1,0 +1,11 @@
+header h1{
+    text-align: center;
+    margin-bottom: 2%;
+}
+
+.hauttableau td{
+    border: 5px solid skyblue;  
+}
+table tr, td{
+    border: 2px solid rgb(162, 163, 163); 
+    }
